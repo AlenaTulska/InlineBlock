@@ -1,0 +1,81 @@
+
+.container {
+    width: 1200px;
+    height: 1200px;
+    margin: 0 auto;
+    }
+
+
+.first, .second, .third {
+    width: 1200px;
+    font-size: 0
+}
+
+
+.first > div {
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    background-color: #55037a;
+    outline: 1px solid black 
+}
+
+.second > div {
+    display:inline-block
+}
+
+.secondbox-one {
+    width: 800px;
+    height: 200px;
+    background-color: #740f1c;
+    outline: 1px solid black
+}
+
+.secondbox-two {
+    width: 400px;
+    height: 133.33px;    
+    background-color: #740f1c;
+    outline: 1px solid black
+}
+
+.third > div {
+    display: inline-block
+}
+
+.thirdbox-one {
+    width: 400px;
+    height: 400px;    
+    background-color: #3b38e0;
+    outline: 1px solid black
+}
+
+.thirdbox-two {
+    width: 800px;
+    height: 200px;    
+    background-color: #3b38e0;
+    outline: 1px solid black;
+    vertical-align: top;
+}
+
+.third > div {
+    display:inline-block
+}
+
+.last-inblock > div {
+    display: inline-block
+}
+
+.thirdbox-three {
+    width: 400px;
+    height: 200px;    
+    background-color: #3b38e0;
+    outline: 1px solid black;
+}
+
+.lastgroup > div {
+    width: 400px;
+    height:100px;    
+    background-color: #3b38e0;
+    outline: 1px solid black;
+    
+}
